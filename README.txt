@@ -10,7 +10,7 @@ Team Members:
 4. Michael Lively, 	LEC 001, mdlively@wisc.edu
 5. Roma Kashpar,	LEC 002, kashpar@wisc.edu 
 
-Notes or comments to the grader:
+Notes or comments:
 The included JSON files were used for testing only. To save to a JSON file, please have a JSON file alreadry created or create one through the File Explorer
 window which should pop up. Alerts will pop up on incorrect input in various scenes (such as Quiz, start Quiz, and add Question). Some details for question: 
 each added question must have at least two answers, one ofwhich is correct, one selected topic (but not more, such as if a radio button is clicked and a 
