@@ -2,7 +2,7 @@ README
 
 Course: CS400
 Semester: Spring 2019
-Project Name: Pracrice Quiz Generator
+Project Name: Quiz Generator
 Team Members:
 1. Sathwik Pattem,	LEC 001, spattem@wisc.edu 
 2. Adam McAvoy, 	LEC 004, ammcavoy@wisc.edu
