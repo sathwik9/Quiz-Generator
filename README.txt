@@ -1,14 +1,14 @@
 README
 
-Course: cs400
+Course: CS400
 Semester: Spring 2019
 Project Name: Pracrice Quiz Generator
 Team Members:
-1. Adam McAvoy, 	LEC 004, ammcavoy@wisc.edu
-2. Michael Goldstein,   LEC 001, mgoldstein2@wisc.edu
-3. Michael Lively, 	LEC 001, mdlively@wisc.edu
-4. Roma Kashpar,	LEC 002, kashpar@wisc.edu
-5. Sathwik Pattem,	LEC 001, spattem@wisc.edu
+1. Sathwik Pattem,	LEC 001, spattem@wisc.edu 
+2. Adam McAvoy, 	LEC 004, ammcavoy@wisc.edu
+3. Michael Goldstein,   LEC 001, mgoldstein2@wisc.edu
+4. Michael Lively, 	LEC 001, mdlively@wisc.edu
+5. Roma Kashpar,	LEC 002, kashpar@wisc.edu 
 
 Notes or comments to the grader:
 The included JSON files were used for testing only. To save to a JSON file, please have a JSON file alreadry created or create one through the File Explorer
